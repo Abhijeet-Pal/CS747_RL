@@ -6,7 +6,9 @@ This repository contains my solution for **Programming Assignment 3** of **CS747
 
 The original assignment specification can be found below
 
-- CS747 Programming Assignment 3 – Optimal Cue-stick Controlcse.iitb.ac.in
+**CS747 Programming Assignment 3 – Optimal Cue-stick Control**  
+https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2023/pa-3/pa-3.html
+
 
 
 ## Overview
