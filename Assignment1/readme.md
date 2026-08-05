@@ -24,4 +24,4 @@ The assignment focuses on implementing and analyzing algorithms for the **stocha
 
 The original assignment specification is available here:
 
-- [https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2023/pa-1/pa-1.html]
+- (https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2023/pa-1/programming-assignment-1.html)
