@@ -22,9 +22,3 @@ The assignment focuses on solving **Markov Decision Processes (MDPs)** using cla
 
 The original assignment specification is available here:
 -- (https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2023/pa-2/pa-2.html)
-
-- https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2023/pa-2/programming-assignment-2.html
-
-## Note
-
-The assignment framework, datasets, and evaluation scripts were provided as part of the CS747 course. This repository contains only my implementations and report.
