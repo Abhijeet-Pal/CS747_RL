@@ -1,0 +1,48 @@
+pygame 2.5.2 (SDL 2.28.3, Python 3.9.2)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[30, 28, 26, 24, 22, 20, 18, 16, 14, 12]
+Running the agent on 10 runs
+MAX_TRIES : 30
+Level 0 passed
+Tries : 4
+
+MAX_TRIES : 28
+Level 1 passed
+Tries : 19
+
+MAX_TRIES : 26
+Level 2 passed
+Tries : 15
+
+MAX_TRIES : 24
+Level 3 passed
+Tries : 18
+
+MAX_TRIES : 22
+Level 4 passed
+Tries : 7
+
+MAX_TRIES : 20
+Level 5 passed
+Tries : 13
+
+MAX_TRIES : 18
+Level 6 passed
+Tries : 11
+
+MAX_TRIES : 16
+Level 7 passed
+Tries : 16
+
+MAX_TRIES : 14
+Level 8 failed
+
+Max tries reached, moving to the next level
+
+MAX_TRIES : 12
+Level 9 failed
+
+Max tries reached, moving to the next level
+
+#### Levels passed : 8 out of 10 ####
+#### Marks : 4.4 out of 6.0 ####
