@@ -10,7 +10,6 @@ The assignment focuses on solving **Markov Decision Processes (MDPs)** using cla
 
 - **Task 1:** Implemented **Value Iteration**, **Howard's Policy Iteration**, and **Linear Programming** for solving finite MDPs, along with policy evaluation.
 - **Task 2:** Modeled the 2v1 football game as an MDP by implementing an encoder and decoder to compute optimal policies using the planner.
-- 
 ## Repository Contents
 
 - `planner.py` – MDP planning algorithms and policy evaluation.
